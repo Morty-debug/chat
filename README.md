@@ -1,4 +1,4 @@
-### Chat modo consola hecho en GO y PHP(https://github.com/RicardoValladares/AJAX)
+### Chat modo consola hecho en GO y PHP(https://github.com/Morty-debug/AJAX)
 ```
 Go: ****************************
 Go: *                          *
